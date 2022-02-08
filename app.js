@@ -1,6 +1,5 @@
 
 $(document).ready(function() {
-
     let parrafo = $("#resultado p")
     
     $('.btn-primary').click(function() {
