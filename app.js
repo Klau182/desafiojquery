@@ -11,10 +11,9 @@ $(document).ready(function() {
         parrafo.removeClass("display-4")
     })
 
-
-
-
-
+    $('.btn-warning').click(function() {
+        parrafo.toggleClass("display-4")
+    })
 
 })
 
