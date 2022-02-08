@@ -7,6 +7,10 @@ $(document).ready(function() {
         parrafo.addClass("display-4")
     })
 
+    $('.btn-danger').click(function() {
+        parrafo.removeClass("display-4")
+    })
+
 
 
 
